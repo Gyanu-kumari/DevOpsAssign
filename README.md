@@ -1,2 +1,1 @@
-# DevOpsAssign
-System.out.println("hello world");
+# DevOpsAssign hello world
